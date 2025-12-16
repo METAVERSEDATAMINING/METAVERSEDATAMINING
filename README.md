@@ -1,6 +1,6 @@
 # METAVERSE DATA MINING Allocator Pathway
 
-**Bookkeeping repo for Allocator #1031**
+**Bookkeeping repo for Allocator [#1031](https://github.com/filecoin-project/Allocator-Registry/issues/1031)**
 
 METAVERSE DATA MINING (MDM) is a Filecoin Plus Allocator pathway focused on onboarding high-quality **public open datasets** (e.g., research, non-profit, and openly accessible data) and select enterprise datasets. We prioritize data that is useful, retrievable, and contributes to the decentralization and long-term utility of the Filecoin network. Our rigorous manual due diligence ensures compliance with Fil+ principles, including geographic distribution (3+ regions), multiple Storage Providers (5+ SPs), and high retrievability.
 
